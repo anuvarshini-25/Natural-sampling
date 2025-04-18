@@ -1,6 +1,6 @@
 # Natural-Sampling
 # Aim
-Write a simple Natural sampling program using Python.
+Write a simple construction and reconstruction of natural sampling program using Python.
 # Tools required
 # Program
 ```
